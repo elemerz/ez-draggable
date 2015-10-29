@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  border:0;
+  margin:0;
+  padding:0;
+}
+
+.dialog{
+  width:300px;
+  height:350px;
+  margin-top:30%;
+  border:5px ridge #aaa;
+}
+.dialog > .titlebar{
+  background:#000080;
+  color: #fff;
+  font-weight: bold;
+  padding:0.5em;
+  height:38px;
+}
+.dialog > .body{
+  padding:0.5em;
+  height:calc(100% - 38px);
+  overflow: auto;
+}

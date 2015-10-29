@@ -1,0 +1,27 @@
+{
+  "name": "ez-draggable",
+  "version": "0.0.1",
+  "authors": [
+	"Chris Coyier: https://css-tricks.com/author/chriscoyier/",
+    "Zágoni Elemér: elemer.zagoni <elemer.zagoni@isdc.eu>"
+  ],
+  "description": "Makes any html element draggable, optionally by a handle (an inner html node of the element)",
+  "main": "jquery.ez-draggable/ez-draggable.js",
+  "keywords": [
+    "draggable",
+    "jquery",
+    "bower",
+    "window"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },  
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
