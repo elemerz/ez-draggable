@@ -1,12 +1,12 @@
 {
   "name": "ez-draggable",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "authors": [
 	"Chris Coyier: https://css-tricks.com/author/chriscoyier/",
     "Zágoni Elemér: elemer.zagoni <elemer.zagoni@isdc.eu>"
   ],
   "description": "Makes any html element draggable, optionally by a handle (an inner html node of the element)",
-  "main": "jquery.ez-draggable/jquery.ez-draggable-0.0.2.js",
+  "main": "jquery.ez-draggable/jquery.ez-draggable-0.0.1.js",
   "keywords": [
     "draggable",
     "jquery",
