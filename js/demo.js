@@ -2,6 +2,6 @@
     'use strict';
 
     $(function(){
-      $('.dialog').ezDraggable({handle:'.titlebar'});
+      $('.dialog').ezDraggable({handle:'.titlebar',draggableSel:".dialog"});
     });
 }(jQuery));
