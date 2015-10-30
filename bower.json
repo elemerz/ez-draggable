@@ -1,7 +1,7 @@
 {
   "name": "ez-draggable",
   "version": "0.0.1",
-  "main": "./js/jquery.ez-draggable/jquery.ez-draggable-0.0.1.min.js",
+  "main": "./js/jquery.ez-draggable/jquery.ez-draggable.min.js",
   "dependencies": {
     "jquery": ">= 1.9.1"
   },
